@@ -1,0 +1,19 @@
+#Fri Jul 07 07:47:26 PDT 2023
+base.0=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
+base.2=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.3=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+base.4=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+base.5=/Users/johnrucker/Desktop/John's Developer Stuff/simplemath/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+path.0=classes.dex
+path.1=9/classes.dex
+path.2=0/classes.dex
+path.3=5/classes.dex
+path.4=9/classes.dex
+path.5=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex
